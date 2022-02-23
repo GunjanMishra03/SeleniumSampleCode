@@ -25,6 +25,7 @@ public class WalmartSelenium {
        // driver.findElement(By.xpath("//ul[@class='style__navList__Igck2']//li[@class='style__navItem__3rEc7 style__isCurrent__1yLnN style__isHeading__2UmI2']//a")).click();
               Thread.sleep(2000);
         driver.close();
+        //It is my first code
 
     }
 }
